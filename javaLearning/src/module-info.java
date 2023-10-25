@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author chukkuu
+ *
+ */
+module javaLearning {
+}
