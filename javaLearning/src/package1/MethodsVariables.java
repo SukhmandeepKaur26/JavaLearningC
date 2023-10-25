@@ -28,4 +28,6 @@ public class MethodsVariables {
 		int sub = obj1.sub(3,4);
 		System.out.println("Result is "+ obj1.multi(Sum, sub));
 	}
+	
+	//test
 }
