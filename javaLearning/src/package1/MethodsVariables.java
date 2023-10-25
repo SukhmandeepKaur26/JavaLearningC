@@ -29,6 +29,4 @@ public class MethodsVariables {
 		System.out.println("Result is "+ obj1.multi(Sum, sub));
 	}
 	
-	//test
-	//code push 3
 }
